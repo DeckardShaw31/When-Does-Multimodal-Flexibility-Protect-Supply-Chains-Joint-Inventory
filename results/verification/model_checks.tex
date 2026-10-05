@@ -1,0 +1,13 @@
+\begin{tabularx}{\textwidth}{Yrrrr}
+\toprule
+Synthetic check & Buffer & Reserved & Delay & Final backlog \\
+\midrule
+Normal operations & 0 & 0 & 0 & 0 \\
+Rail failure, road access & 0 & 4 & 0 & 0 \\
+Shared closure, no buffer & 0 & 0 & 12 & 8 \\
+Shared closure, fixed reservation & 0 & 4 & 12 & 8 \\
+Shared closure, buffer permitted & 8 & 0 & 0 & 0 \\
+Partial shared bottleneck & 0 & 0 & 6 & 4 \\
+Positive lead time & 0 & 0 & 4 & 0 \\
+\bottomrule
+\end{tabularx}

@@ -1,0 +1,19 @@
+# Exclude plan and manuscript as requested
+plan.md
+main.tex
+Suggestion.txt
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class

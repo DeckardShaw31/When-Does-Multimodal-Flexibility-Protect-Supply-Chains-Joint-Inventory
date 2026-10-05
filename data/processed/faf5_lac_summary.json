@@ -1,0 +1,307 @@
+{
+  "source_id": "FAF571",
+  "source_release": "5.7.1",
+  "checked_date": "2026-10-04",
+  "input_sha256": "714fdd61e7ff18b7d822dfceebaba4840087195386ab3a1a07ac2352c9b07486",
+  "record_count": 28,
+  "provenance_status": "User-prepared selected-record CSV. Schema, arithmetic, checksum, and declared-scope coverage were checked locally; row values were not independently reproduced from an official FAF archive.",
+  "coverage_audit": {
+    "declared_scope_combination_count": 72,
+    "observed_combination_count": 28,
+    "missing_combination_count": 44,
+    "coverage_fraction": 0.3888888888888889,
+    "complete_factorial_coverage": false,
+    "missing_combinations": [
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "171",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 35
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 1,
+        "sctg2": 43
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 35
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 2,
+        "sctg2": 43
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 35
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 1,
+        "dms_mode": 5,
+        "sctg2": 43
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 1,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 1,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 1,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 1,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 2,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 2,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 2,
+        "sctg2": 35
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 2,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 2,
+        "sctg2": 40
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 2,
+        "sctg2": 43
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 5,
+        "sctg2": 24
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 5,
+        "sctg2": 30
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 5,
+        "sctg2": 39
+      },
+      {
+        "dms_dest": "181",
+        "trade_type": 2,
+        "dms_mode": 5,
+        "sctg2": 40
+      }
+    ]
+  },
+  "selected_record_totals_2024": {
+    "tonnage_ktons": 4463.45,
+    "value_millions_current_usd": 41948.0,
+    "ton_miles_millions": 9295.24
+  },
+  "selected_record_composition_2024": {
+    "Truck": 0.2661,
+    "Rail": 0.0517,
+    "Multiple modes & mail": 0.6822
+  },
+  "selected_record_trade_composition_2024": {
+    "Domestic": 0.2027,
+    "Import": 0.7973
+  },
+  "interpretation_limits": [
+    "Composition percentages describe only the supplied rows because the declared origin-destination-trade-mode-commodity grid is incomplete.",
+    "FAF mode 5 is Multiple Modes & Mail and is not identifiable as truck-rail intermodal or containerized freight.",
+    "Import records with domestic origin 061 identify the Los Angeles zone of entry, not a specific seaport, terminal, or foreign arrival mode.",
+    "The TEU calculation treats all selected tonnage as containerizable solely to define a scenario scale; it is not an observed container volume."
+  ],
+  "illustrative_teu_equivalent": {
+    "short_tons_per_teu": 11.5,
+    "containerization_fraction_assumed_for_equivalent": 1.0,
+    "all_selected_tonnage_teu_equivalent_per_day": 1060.45,
+    "one_percent_scenario_scale_teu_equivalent_per_day": 10.6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "source_id": "POLA2024",
+  "source_url": "https://portoflosangeles.org/business/statistics/container-statistics/historical-teu-statistics-2024",
+  "source_checked_date": "2026-10-04",
+  "method": "Transcribed subset of the official web table; not an automated download",
+  "input_sha256": "70199a797f7819b8b512d01337f8bf56ba2d3f0993ed7cd7b9a59a507893dedc",
+  "annual_loaded_import_teu": 5356680.149999999,
+  "annual_total_port_teu": 10297352.25,
+  "calendar_days": 366,
+  "mean_loaded_import_teu_per_calendar_day": 14635.738114754096,
+  "interpretation": "Aggregate scale only; not capacity, shipper demand, or Chicago-bound commodity flows"
+}

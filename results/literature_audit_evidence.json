@@ -1,0 +1,117 @@
+{
+  "checked_date": "2026-10-04",
+  "scope": "Verifies uploaded file identity and presence of selected supporting text markers. Interpretive absence claims remain manual full-text judgments.",
+  "papers": {
+    "chen2012": {
+      "filename": "chen2012.pdf",
+      "sha256": "7035d0b8fa4d6d09614b2e72c329411622d2d90b8fd418ea9ba1df8b7df61e4a",
+      "page_count": 16,
+      "pdf_title": "Resilience: An Indicator of Recovery Capability in Intermodal Freight Transport",
+      "supporting_marker_pages": {
+        "multivariate correlated random variates": [
+          9
+        ],
+        "reserve capacity": [
+          12
+        ]
+      }
+    },
+    "aldrighetti2023": {
+      "filename": "1-s2.0-S0305048323000075-main.pdf",
+      "sha256": "53849a42850d0b4e3d1febce3782e792e08a2f61271a667fe038d0bcefd6f44c",
+      "page_count": 21,
+      "pdf_title": "Efficient resilience portfolio design in the supply chain with consideration of preparedness and recovery investments",
+      "supporting_marker_pages": {
+        "backup contract": [
+          5
+        ],
+        "contracted capacity": [
+          3,
+          4,
+          5,
+          11,
+          14,
+          19
+        ]
+      }
+    },
+    "goodarzi2025": {
+      "filename": "An-optimization-approach-for-resilient-and-sustainable-planni.pdf",
+      "sha256": "40377f6534097de2932a76b1da526698065a3fafa94b1e50c1f21ec45a6df273",
+      "page_count": 45,
+      "pdf_title": "An optimization approach for resilient and sustainable planning of intermodal transport",
+      "supporting_marker_pages": {
+        "first-stage variables": [
+          19,
+          33
+        ],
+        "flood may affect several nodes": [
+          27
+        ]
+      }
+    },
+    "guo2024": {
+      "filename": "1-s2.0-S0305054824001485-main.pdf",
+      "sha256": "3d139a9cc8baeee482ffa168883ae2c1db308570cd42b9be48ca7a944fd98eb9",
+      "page_count": 21,
+      "pdf_title": "Collaborative optimization of routing and storage strategy of multi-period multimodal transport in an uncertain environment",
+      "supporting_marker_pages": {
+        "storage strategy": [
+          1,
+          2,
+          5,
+          8,
+          11,
+          13,
+          16
+        ],
+        "robust optimization": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          11,
+          18,
+          19,
+          20
+        ]
+      }
+    },
+    "rahiminia2025": {
+      "filename": "1-s2.0-S003801212400346X-main.pdf",
+      "sha256": "2333235ed261aa277ceb91995162eadfaa9ef66e0651be13b43ab77e19bf3151",
+      "page_count": 18,
+      "pdf_title": "A hybrid optimization approach for designing sustainable intermodal freight transport under mixed uncertainty",
+      "supporting_marker_pages": {
+        "buffer inventory": [
+          5,
+          14
+        ],
+        "capacity of terminals": [
+          6,
+          8
+        ],
+        "storing capacity": [
+          8
+        ]
+      }
+    },
+    "wang2026": {
+      "filename": "1-s2.0-S1366554526001146-main.pdf",
+      "sha256": "6a8e89fc1256c2f889df272464c96c651f348220850764bd233231c22d5a6aab",
+      "page_count": 18,
+      "pdf_title": "Service pricing in resilient multimodal transportation networks",
+      "supporting_marker_pages": {
+        "reserve capacity in advance": [
+          2
+        ],
+        "rented capacity": [
+          6
+        ]
+      }
+    }
+  }
+}
